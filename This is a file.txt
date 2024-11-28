@@ -2,3 +2,4 @@ These are text lines
 1
 2
 3
+These are modifications
