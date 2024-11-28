@@ -3,3 +3,5 @@ These are text lines
 2
 3
 These are modifications
+
+New changes here
