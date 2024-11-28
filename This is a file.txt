@@ -5,3 +5,5 @@ These are text lines
 These are modifications
 
 New changes here
+
+More local changes
